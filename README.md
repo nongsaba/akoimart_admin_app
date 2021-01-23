@@ -1,2 +1,1 @@
-# akoimart_admin_app
-Admin app for akoimart
+# akoimart_backend
